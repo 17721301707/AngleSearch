@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_menu_item">
+        <item>@string/bulk_menu_modify</item>
+        <item>@string/bulk_menu_remove</item>
+    </string-array>
+
+    <string-array name="dimension_menu_item">
+        <item>@string/dimension_menu_modify</item>
+        <item>@string/dimension_menu_remove</item>
+    </string-array>
+</resources>

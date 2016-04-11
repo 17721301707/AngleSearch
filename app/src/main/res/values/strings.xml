@@ -1,3 +1,73 @@
 <resources>
-    <string name="app_name">AngleSearch</string>
+    <string name="app_name">角度查询</string>
+    <string name="home_title_data">已有数据</string>
+    <string name="home_title_add">增加数据</string>
+    <string name="home_title_search">查询数据</string>
+
+    <string name="bulk_menu_title">选择操作，块号为：</string>
+    <string name="bulk_menu_add">在该块上增加尺寸角度</string>
+    <string name="bulk_menu_remove">删除该块不锈钢</string>
+    <string name="bulk_menu_modify">修改该块值</string>
+
+    <string name="dimension_menu_remove">删除该尺寸</string>
+    <string name="dimension_menu_modify">修改该尺寸值</string>
+
+    <string name="data_length1">长度 1：</string>
+    <string name="data_length2">长度 2：</string>
+    <string name="data_number">块号 </string>
+    <string name="data_dimension">尺寸 </string>
+    <string name="dimension_title_end">下所有尺寸</string>
+    <string name="dimension_title_no">数据获取错误</string>
+    <string name="angle_title_end">下所有角度</string>
+    <string name="angle_title_no">数据获取错误</string>
+
+    <string name="data_angel">角度</string>
+    <string name="data_thick">不锈钢厚度</string>
+
+    <string name="input_angle">角度：</string>
+    <string name="input_thick">不锈钢厚度：</string>
+    <string name="input_info">补充说明：</string>
+
+    <string name="add_bulk">增加不锈钢块</string>
+    <string name="add_dimension">增加尺寸</string>
+    <string name="add_angle">增加角度</string>
+    <string name="modify_dimension">修改尺寸</string>
+
+    <string name="modify_angle">修改角度</string>
+
+    <string name="input_bulk">输入不锈钢块号</string>
+    <string name="input_bulk_remark">补充说明:</string>
+    <string name="can_null">可以为空</string>
+    <string name="not_null">不可以为空</string>
+
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="bulk_exit">不锈钢块已存在，请更改编号，或在此编号上增加尺寸！</string>
+    <string name="bulk_del_alter">将删除该块不锈钢上所有尺度和角度！</string>
+    <string name="dimension_del_alter">将删除该尺寸上所有角度！</string>
+
+    <string name="add_success">增加成功</string>
+    <string name="add_fail">增加失败</string>
+    <string name="modify_success">修改成功</string>
+    <string name="modify_fail">修改失败</string>
+    <string name="title_activity_add_dimension">尺寸</string>
+    <string name="remove_success">删除成功</string>
+    <string name="remove_fail">删除失败</string>
+
+    <string name="angle">增加角度:</string>
+    <string name="dimension_null">数据不能为空！</string>
+    <string name="add_dimension_fail">增加尺寸失败</string>
+    <string name="add_angle_fail">增加角度失败</string>
+    <string name="title_activity_add_bulk">增加不锈钢块</string>
+    <string name="title_activity_modify_bulk">修改不锈钢块信息</string>
+    <string name="title_bulk_remove">删除不锈钢</string>
+    <string name="title_activity_search">角度查询</string>
+
+    <string name="title_search">查找</string>
+    <string name="search_len1">长度一</string>
+    <string name="search_len2">长度二</string>
+    <string name="search_acc">精度</string>
+    <string name="search_con">不填查询所有</string>
+    
+    <string name="millimeter">毫米</string>
 </resources>

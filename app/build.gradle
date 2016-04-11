@@ -20,7 +20,12 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:23.1.0'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //    androidTestCompile 'com.android.support.test:runner:0.2'
+    //    androidTestCompile 'com.android.support.test:rules:0.2'
+    compile 'com.android.support:appcompat-v7:23.2.1'
+    compile 'com.j256.ormlite:ormlite-android:4.48'
+    compile 'com.j256.ormlite:ormlite-core:4.48'
+    compile 'com.android.support:design:23.2.1'
+    compile 'com.jakewharton:butterknife:7.0.1'
 }
